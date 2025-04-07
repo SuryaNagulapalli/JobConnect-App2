@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/JobConnect-App2/static/css/main.a0b7c716.css",
+    "main.js": "/JobConnect-App2/static/js/main.0d277fc7.js",
+    "index.html": "/JobConnect-App2/index.html",
+    "main.a0b7c716.css.map": "/JobConnect-App2/static/css/main.a0b7c716.css.map",
+    "main.0d277fc7.js.map": "/JobConnect-App2/static/js/main.0d277fc7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0b7c716.css",
+    "static/js/main.0d277fc7.js"
+  ]
+}
